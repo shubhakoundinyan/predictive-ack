@@ -1,0 +1,4 @@
+create database pack;
+use pack;
+create table register(uname varchar(40),pass varchar(40),cpass varchar(40));
+
